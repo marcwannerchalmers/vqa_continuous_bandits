@@ -1,5 +1,5 @@
 # Variational Quantum Algorithms with Continuous Bandits
-Code for generating the results of the experiments
+Code for generating the results of the experiments in [Variational Quantum Algorithms with Continuous Bandits](https://arxiv.org/abs/2502.04021).
 
 ## Setup
 Run the following command:
